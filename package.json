@@ -3,16 +3,12 @@
   "version": "1.0.0",
   "description": "Git Repo for educational purposes",
   "main": "index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "repository": "git@github.com:ivansalinder/git-extended.git"
+  "repository": "git@github.com:ivansalinder/git-extended.git",
   "author": "Ivan Salinder ivan040205@gmail.com",
   "license": "CC-BY-4.0"
   "config": {
     "commitizen": {
         "path": "cz-conventional-changelog"
     }
-}
-
-}
+  }
+}  
